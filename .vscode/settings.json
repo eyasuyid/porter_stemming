@@ -1,0 +1,7 @@
+{
+  "python.testing.pytestArgs": [
+    "porter_stemming"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
+}
